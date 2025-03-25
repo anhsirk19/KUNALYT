@@ -27,3 +27,4 @@ public class is_sorted_arr {
         return isSort(arr, index+1);
     }
 }
+//done
