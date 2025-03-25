@@ -1,0 +1,9 @@
+leetcode not solved ques
+
+Arrays
+#solved all easy questions
+#not solved medium and hard
+1)https://leetcode.com/problems/spiral-matrix-iii/description/
+2)https://leetcode.com/problems/set-matrix-zeroes/description/
+3)https://leetcode.com/problems/house-robber/description/
+4)https://leetcode.com/problems/max-value-of-equation/description/
